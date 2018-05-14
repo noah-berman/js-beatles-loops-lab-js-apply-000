@@ -20,3 +20,7 @@ function johnLennonFacts(facts) {
   return exclaimedFacts
 }
 
+function iLoveTheBeatles(number) {
+  const loveArray = [];
+  
+}
