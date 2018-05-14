@@ -13,9 +13,10 @@ function johnLennonFacts(facts) {
   
   let i = 0
   while (i < facts.length) {
-    exclaimedFacts.push('${facts[i]}!!!')
+    exclaimedFacts.push(`${facts[i]}!!!`)
   i++
   }
   
   return exclaimedFacts
 }
+
