@@ -23,4 +23,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(number) {
   const loveArray = [];
   
+  
+  
+  return loveArray
 }
